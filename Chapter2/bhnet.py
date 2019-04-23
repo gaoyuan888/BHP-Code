@@ -1,11 +1,10 @@
 #!/opt/local/bin/python2.7
 
-import sys
-import socket
 import getopt
-import threading
+import socket
 import subprocess
-
+import sys
+import threading
 
 # define some global variables
 listen             = False
